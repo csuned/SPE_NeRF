@@ -1,2 +1,5 @@
-# SPE_NeRF
-Official Implementation of SPE with Few-View NeRF
+# [Submission] Learning High-Frequency Functions Made Easy with Sinusoidal Positional Encoding
+
+Official Implementation of SPE with NeRF (In Progress)
+
+
